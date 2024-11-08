@@ -1,7 +1,7 @@
 {
   "name": "untitled",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,9 @@
   "description": "",
   "dependencies": {
     "mysql2": "^3.11.4",
+    "reflect-metadata": "^0.2.2",
     "sequelize": "^6.37.5",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.20"
   }
 }
